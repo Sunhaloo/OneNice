@@ -1,6 +1,6 @@
 # OneNice
 
-![OneNice](./screenshots/OneNice.png)
+![OneNice](OneNice.png)
 
 ## Background Story
 
