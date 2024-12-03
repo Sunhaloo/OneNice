@@ -12,7 +12,7 @@ Hence, I settle on [Kognise](https://kognise.dev/)'s [Atom](https://github.com/k
 
 >Great theme! Really recommend using it; been using basically *forever*.
 
-The **main** reason that I want to make this theme is because coding my editor with all the colours of *One Dark Pro* and going to *obsidian-atom* feels... "*disconnected*".
+The **main** reason that I wanted to make this theme is because coding in my editor with all the colours of *One Dark Pro* and going to *obsidian-atom* feels... "*disconnected*".
 Hence, I mainly wanted to reproduce my editor's feel into Obsidian.
 
 ---
@@ -70,7 +70,7 @@ Hence, I mainly wanted to reproduce my editor's feel into Obsidian.
 >- VictorMono Nerd Font ( *for code block* )
 
 >[!warning]
->I use a 1366 $\times$ 782 monitor, but I have set my resolution to 1920 $\times$ 1080.
+>I use a 1366 x 782 monitor, but I have set my resolution to 1920 x 1080.
 >Hence, this is the reason why the text ( *might be* ) is blurry!
 
 ---
@@ -83,9 +83,9 @@ Hence, I mainly wanted to reproduce my editor's feel into Obsidian.
 - [OneDark-Pro](https://github.com/Binaryify/OneDark-Pro)
 
 >[!note]
->Special thanks to [R.Paquiom](https://www.instagram.com/yvng._roy/) for helping me with some of the colours and deciding  on
+>Special thanks to [R.Paquiom](https://www.instagram.com/yvng._roy/) for helping me with some of the colours and where to "*place*" them!
 
->I don't really like "*Web Development*" but I wanted to try something and I think it turned out okay
+>I don't really like "*Web Development*" but I wanted to try something and I think it turned out okay.
 >If you have any suggestion on the colours, _specially for the light **theme**_.
 >Feel free to message me over at [s.sunhaloo](https://www.instagram.com/s.sunhaloo)
 >
